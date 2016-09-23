@@ -1,7 +1,5 @@
 # Tabular Data Gym, Episode 2
 
-
-
 ### Data Gym Rules:
 
 1. Fork and clone repo
@@ -19,7 +17,6 @@
    more Iterations directories.
 7. Push changes to the fork and do Pull Request.
 8. We will add your name to Hall of Fame List then.
-
 
 ### Recommended software
 
